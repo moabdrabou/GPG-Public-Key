@@ -1,2 +1,2 @@
 ### [PGP public key](https://github.com/moabdrabou/pgp-public-key/blob/main/moabdrabou.asc)
-Fingerprint --> CC21 BBD9 1FBB 033C 5099  C654 CED0 1247 C55A E0E9
+Fingerprint --> B68F BAF2 AE8A B64E FB89 1953 DE33 6108 D1FF 7B3F
